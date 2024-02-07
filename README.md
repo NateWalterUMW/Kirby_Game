@@ -1,1 +1,1 @@
-To find the executable file: x64 --> Debug --> Lab9.exe
+To play the game: x64 --> Debug --> Lab9.exe
